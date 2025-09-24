@@ -1,5 +1,4 @@
-
-#Curso de GIT.2025
+#Curso de GIT. Septiembre,2025
 
 Este proyecto contiene el curso de introducción a GIT del Curso 2 DAW.
 
