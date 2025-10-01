@@ -1,10 +1,5 @@
 # Curso de GIT
 
-Este proyecto contiene el curso de introducciÃ³n a GIT del Aula de Software Libre.
+Este proyecto contiene el curso de introducción a GIT del Aula de Software Libre.
 
 Desarrollado por Javier Maceiras.
-
-
-
-
-
